@@ -1,6 +1,7 @@
 var numOfSquares = 6;
 var colors = generateRandomColors(numOfSquares);
-//Testing the github integration
+//Testing the github integration new test
+// github integration
 var squares = document.querySelectorAll(".square");
 var pickedColor = pickColor();
 var colorDisplay = document.getElementById("colorDisplay");
